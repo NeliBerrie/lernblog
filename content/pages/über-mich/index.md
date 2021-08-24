@@ -1,7 +1,7 @@
 +++
 title = "Über mich"
 draft = false
-description = "Hey, das bin ich :)"
+description = "Hey, hier etwas über mich"
 +++
 ![](/img/default-author.png)
 
