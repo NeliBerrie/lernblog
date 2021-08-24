@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = ""
+icon = "/media/berries.png"
 logo = ""
 image = "/media/pexels-polina-kovaleva-7511847-2-.jpg"
-color = ""
+color = "#DF01D7"
 +++
