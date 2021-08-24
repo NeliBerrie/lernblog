@@ -2,11 +2,10 @@
 headless = true
 
 [[link]]
-title = "Home"
+title = "Blog"
 url = "/"
 
 [[link]]
 title = "Über mich"
 url = "/ueber/"
 +++
-
