@@ -1,13 +1,14 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
-image = ""
+description = "Hey, das bin ich :)"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Elina Nel Riedi
 
-info@lernblog.ch
+Lernende WMS 
 
-Beschreibung, wer ich bin...
+Instagram: \_\_elinnaa\_\_
+
+BWD Bern
