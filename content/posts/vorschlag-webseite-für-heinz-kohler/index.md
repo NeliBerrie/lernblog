@@ -1,6 +1,6 @@
 +++
 title = "Vorschlag Webseite für Heinz Kohler"
-date = "2021-09-21"
+date = "2021-09-14"
 draft = false
 pinned = false
 image = "vorlage.png"
