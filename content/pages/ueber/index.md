@@ -7,8 +7,4 @@ description = "Hey, das bin ich :)"
 
 ## Elina Nel Riedi
 
-Lernende WMS 
-
-Instagram: \_\_elinnaa\_\_
-
-BWD Bern
+Lernende WMS
