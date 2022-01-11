@@ -7,4 +7,4 @@ description = "Hey, das bin ich :)"
 
 ## Elina Nel Riedi
 
-Lernende WMS
+Lernende WMB
